@@ -8,6 +8,7 @@ Rattus norvegicus (Rat),
 Gallus gallus (Chicken),
 Xenopus laevis (Frog),
 Danio rerio (Zebrafish).
+
 This analysis was conducted as part of Module 2 of the BioinformHer Training Program to explore molecular evolution using bioinformatics tools and techniques.
 ## Project objective
 By retrieving protein sequences, performing sequence alignments, and constructing a phylogenetic tree, this study aims to analyze and compare Hemoglobin Beta (HBB) protein sequences across vertebrates in order to uncover evolutionary relationships and functional conservation through sequence alignment and phylogenetic analysis.
