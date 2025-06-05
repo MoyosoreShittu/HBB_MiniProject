@@ -12,9 +12,9 @@ This analysis was conducted as part of Module 2 of the BioinformHer Training Pro
 ## Project objective
 By retrieving protein sequences, performing sequence alignments, and constructing a phylogenetic tree, this study aims to analyze and compare Hemoglobin Beta (HBB) protein sequences across vertebrates in order to uncover evolutionary relationships and functional conservation through sequence alignment and phylogenetic analysis.
 ## Bioinformatics Tools & Techniques Used
-NCBI Gene & Nucleotide Database - Sequence retrieval
+NCBI  Database - Sequence retrieval
 
-BLASTp (NCBI & EMBOSS needle) - Pairwise alignment
+NCBI BLASTp and EMBOSS needle - Pairwise alignment
 
 Clustal Omega - Multiple sequence alignment (MSA)
 
